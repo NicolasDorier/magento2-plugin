@@ -33,7 +33,7 @@ Visit the [Releases](https://github.com/bitpay/magento2-plugin/releases) page of
 
 Then in stores -> configuration -> sales -> payment methods, you should have Bitpay as a payment method
 
-Make sure to flush the Magento cash after installing or updating the BitPay plugin (System -> Cache Management).
+Make sure to flush the Magento cache after installing or updating the BitPay plugin (System -> Cache Management).
 
 **WARNING:** It is good practice to backup your database before installing extensions. Please make sure you Create Backups.
 
